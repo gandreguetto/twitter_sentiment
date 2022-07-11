@@ -16,3 +16,5 @@ Para desenvolver o projeto eu utilizei as seguintes referências:
 
 Os gráficos abaixo mostram os resultados das análises de sentimento.
 
+![politicos](https://user-images.githubusercontent.com/88217999/178317430-48131c2c-f6ce-469c-a504-bf4de813983e.png)
+
