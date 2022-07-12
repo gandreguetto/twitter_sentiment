@@ -18,6 +18,6 @@ Os gráficos abaixo mostram os resultados das análises de sentimento.
 
 ![politicos](https://user-images.githubusercontent.com/88217999/178317430-48131c2c-f6ce-469c-a504-bf4de813983e.png)
 
-![personagens](https://user-images.githubusercontent.com/88217999/178319499-c0b237a5-6381-4636-aa7d-1456ba945932.png)
+![personagens](https://user-images.githubusercontent.com/88217999/178483109-7d4d0206-1c28-41d1-8a92-ed31aa720c1a.png)
 
 ![series](https://user-images.githubusercontent.com/88217999/178319669-265e1b36-fe24-4e47-9024-18be7a1a5244.png)
